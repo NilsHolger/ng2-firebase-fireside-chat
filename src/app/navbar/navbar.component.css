@@ -1,0 +1,11 @@
+.fill-remaining {
+    flex: 1 1 auto;
+}
+
+a.md-raised-button[md-button]{
+    color: #fff;
+}
+.white {
+    color: #fff !important;
+    text-decoration: none;
+}
